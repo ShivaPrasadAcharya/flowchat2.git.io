@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flow charts</title>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.6.1/mermaid.min.js"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="controls">
+        <div class="search-container">
+            <input type="text" id="searchInput" placeholder="Search...">
+            <button id="searchBtn"><i class="fas fa-search"></i></button>
+        </div>
+        <div class="filter-container">
+            <select id="titleFilter">
+                <option value="all">All Flowcharts</option>
+                <!-- Options will be dynamically populated from data.js -->
+            </select>
+        </div>
+    </div>
+
+    <div class="content-wrapper">
+        <div id="flowcharts-container">
+            <!-- Flowcharts will be dynamically inserted here -->
+        </div>
+    </div>
+
+    <div class="zoom-controls">
+        <button id="zoomIn" class="zoom-btn"><i class="fas fa-search-plus"></i></button>
+        <button id="zoomOut" class="zoom-btn"><i class="fas fa-search-minus"></i></button>
+    </div>
+
+    <script type="module" src="script.js"></script>
+</body>
+</html>
