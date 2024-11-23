@@ -1,7 +1,7 @@
 // data.js
 const flowchartData = [
   {
-    id: 'district-court-np',
+    id: '0002',
     title: 'जिल्ला अदालतको अधिकारक्षेत्र',
     language: 'np',
     collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
@@ -31,7 +31,7 @@ const flowchartData = [
     style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:white`
   },
   {
-    id: 'district-court-en',
+    id: '0001',
     title: 'Jurisdiction of District Court',
     language: 'en',
     collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
