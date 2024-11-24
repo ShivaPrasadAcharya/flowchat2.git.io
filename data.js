@@ -52,9 +52,6 @@ flowchart TD
     I -->|छैन| H
     H --> K --> L --> M --> N --> O --> P
 
-    style A fill:#ffcccc
-    style H fill:#ff9999
-    style O fill:#ff6666
 }
 
  
