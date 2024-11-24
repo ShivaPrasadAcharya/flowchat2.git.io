@@ -60,7 +60,7 @@ const flowchartData = [
     classDef cabinet fill:#d4edda,stroke:#333
     classDef decision fill:#f9f9f9,stroke:#333
 
-    class A,B,C,F ministry
+    class B,C,F ministry
     class G,N,U lawMinistry
     class H,Q,R cabinet
     class D,I,O,S decision
@@ -128,7 +128,7 @@ const flowchartData = [
     classDef stakeholder fill:#fff2cc,stroke:#333
     classDef decision fill:#f9f9f9,stroke:#333
 
-    class A,C,G,I ministry
+    class C,G,I ministry
     class D,J,O lawMinistry
     class E,L,M cabinet
     class B,H stakeholder
