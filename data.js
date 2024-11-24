@@ -165,7 +165,7 @@ const flowchartData = [
     style O fill:#ff6666
     
     style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:white`
-  },
+  }
  
 ];
 
