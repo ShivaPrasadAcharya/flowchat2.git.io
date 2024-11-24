@@ -55,7 +55,7 @@ const flowchartData = [
     S -->|छ| U
 
     %% Styling
-    classDef ministry fill:black,stroke:#333
+    classDef ministry fill:#e6f3ff,stroke:#333
     classDef lawMinistry fill:#ffedb3,stroke:#333
     classDef cabinet fill:#d4edda,stroke:#333
     classDef decision fill:#f9f9f9,stroke:#333
