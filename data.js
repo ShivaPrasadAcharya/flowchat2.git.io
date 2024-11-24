@@ -1,7 +1,6 @@
 // data.js
 const flowchartData = [
-  // data.js
-const flowchartData = [
+
   {
     id: 'district-court-np',
     title: 'जिल्ला अदालतको अधिकारक्षेत्र',
