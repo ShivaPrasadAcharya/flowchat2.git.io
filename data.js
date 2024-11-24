@@ -65,7 +65,7 @@ const flowchartData = [
     class H,Q,R cabinet
     class D,I,O,S decision
     
-    style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:white`
+    style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
   },
    {
     id: '0004',
@@ -134,7 +134,7 @@ const flowchartData = [
     class B,H stakeholder
     class F,K,N decision
     
-    style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:white`
+    style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
   },
   {
     id: '0003',
