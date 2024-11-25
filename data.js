@@ -1,8 +1,8 @@
 // data.js
 const flowchartData = [
   {
-id: '00 ',
-title: ' ',
+id: '0008 ',
+title: ' Sytemic Model',
 language: 'np',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
@@ -51,15 +51,8 @@ graph LR
     Impact --> Feedback
     Feedback --> Input
 
-    style Input fill:#add8e6
-    style Process fill:#ffffe0
-    style Output fill:#98fb98
-    style Outcome fill:#ffb6c1
-    style Impact fill:#ffa07a
-    style Feedback fill:#e6e6fa
-
-style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
-},
+    style Feedback fill:#e6e6fa, stroke:#1a365d,stroke-width:2px,color:black`
+  },
   {
 id: '0007',
 title: 'प्रत्यायोजन विधान निर्माण प्रक्रिया',
