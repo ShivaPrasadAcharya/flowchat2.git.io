@@ -1,6 +1,66 @@
 // data.js
 const flowchartData = [
   {
+id: '00 ',
+title: ' ',
+language: 'np',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+graph LR
+    Input[/"Input:
+    Case Filings
+    Legal Personnel
+    Court Infrastructure
+    Financial Resources"/]
+
+    Process[/"Process:
+    Case Registration
+    Evidence Collection
+    Court Hearings
+    Legal Arguments"/]
+
+    Output[/"Output:
+    Cases Resolved
+    Judgments Delivered
+    Orders Issued
+    Records Maintained"/]
+
+    Outcome[/"Outcome:
+    Timely Justice
+    Legal Precedents
+    Dispute Resolution
+    Enforcement"/]
+
+    Impact[/"Impact:
+    Public Trust
+    Rule of Law
+    Social Order
+    Justice Access"/]
+
+    Feedback[/"Feedback Loop:
+    Case Law Updates
+    Procedure Reforms
+    Resource Allocation
+    Training Needs"/]
+
+    Input --> Process
+    Process --> Output
+    Output --> Outcome
+    Outcome --> Impact
+    Impact --> Feedback
+    Feedback --> Input
+
+    style Input fill:#add8e6
+    style Process fill:#ffffe0
+    style Output fill:#98fb98
+    style Outcome fill:#ffb6c1
+    style Impact fill:#ffa07a
+    style Feedback fill:#e6e6fa
+
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
 id: '0007',
 title: 'प्रत्यायोजन विधान निर्माण प्रक्रिया',
 language: 'np',
