@@ -193,26 +193,86 @@ flowchart TD
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 },
    {
-id: '000',
-title: '',
-language: '',
+id: '0016',
+title: 'नेपालमा नागरिकता',
+language: 'np',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-flowchart TD
+ flowchart TD
+                A["नागरिकताको प्रकार\n(धारा १०.२)"]
+                
+                A -->|एकल संघीय नागरिकता| B["नागरिक ठहरिने आधारहरू\n(धारा ११)"]
+                
+                B --> C["वंशजको आधारमा\n(धारा ११.२)"]
+                B --> D["अंगीकृत नागरिकता\n(धारा ११.६,७,८)"]
+                B --> E["सम्मानार्थ नागरिकता\n(धारा ११.९)"]
+                
+                C --> F["पहिले नै नागरिकता\nप्राप्त गरेको"]
+                C --> G["जन्म हुँदा बाबु वा\nआमा नेपाली नागरिक"]
+                C --> H["पितृत्व/मातृत्व ठेगान\nनभएको नाबालक"]
+                
+                D --> I["विदेशी महिला-नेपाली\nनागरिकसँग विवाह"]
+                D --> J["विदेशी बाबु र\nनेपाली आमाबाट जन्म"]
+                D --> K["अन्य कानून बमोजिम"]
+                
+                L["विशेष प्रावधानहरू"]
+                
+                L --> M["गैरआवासीय नागरिकता\n(धारा १४)"]
+                L --> N["लैंगिक पहिचान सहितको\nनागरिकता\n(धारा १२)"]
+                L --> O["नेपालमा गाभिएका क्षेत्रका\nव्यक्तिहरू\n(धारा ११.१०)"]
+                
+                style A fill:#f9f,stroke:#333,stroke-width:2px
+                style B fill:#ffd700,stroke:#333,stroke-width:2px
+                style L fill:#98fb98,stroke:#333,stroke-width:2px
    
-  
-style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+  style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 },
   {
-id: '000',
-title: '',
-language: '',
+id: '0015',
+title: 'Citizenship in Nepal',
+language: 'en',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
 flowchart TD
    
+             A["Right to Citizenship\n(Article 10)"]
+    
+    A --> B["Single Federal Citizenship\nwith Provincial Identity\n(10.2)"]
+    
+    B --> C["Types of Citizenship\n(Article 11)"]
+    
+    C --> D["Citizenship by Descent\n(11.2)"]
+    C --> E["Naturalized Citizenship\n(11.6, 11.7, 11.8)"]
+    C --> F["Honorary Citizenship\n(11.9)"]
+    
+    D --> G["Automatic Qualification\n- Person who has already acquired citizenship\n- Person whose father/mother was citizen at birth\n(11.2.a, 11.2.b)"]
+    D --> H["Child Found in Nepal\n- Unknown parentage\n- Until parents identified\n(11.4)"]
+    D --> I["Special Provision\n- Born to Nepali mother in Nepal\n- Father unidentified\n(11.5)"]
+    
+    E --> J["Foreign Women\n- Married to Nepali citizen\n- As per federal law\n(11.6)"]
+    E --> K["Children of Nepali Mother\n- Born to foreign father\n- Permanent residence in Nepal\n- Haven't acquired foreign citizenship\n(11.7)"]
+    E --> L["Other Naturalization\n- As per federal law\n(11.8)"]
+    
+    M["Special Categories"]
+    
+    M --> N["Non-Resident Nepali Citizenship\n- For former citizens/descendants\n- Excluding SAARC nations\n- Economic, social & cultural rights\n(14)"]
+    
+    M --> O["Gender Identity Provision\n- Can obtain citizenship certificate\n- Through father or mother's name\n(12)"]
+    
+    M --> P["Territorial Integration\n- Residents of merged territories\n- As per federal law\n(11.10)"]
+    
+    Q["Other Provisions\n(13, 15)"]
+    
+    Q --> R["Acquisition, Reacquisition\nand Termination\n- As per federal law\n(13)"]
+    
+    Q --> S["Documentation\n- Mandatory citizen records\n- Other provisions as per federal law\n(15)"]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#ffd700,stroke:#333,stroke-width:2px
+    style M fill:#98fb98,stroke:#333,stroke-width:2px
+    style Q fill:#87ceeb,stroke:#333,stroke-width:2px
   
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 }, 
