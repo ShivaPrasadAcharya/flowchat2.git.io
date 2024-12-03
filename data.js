@@ -375,7 +375,7 @@ language: 'en',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-timeline
+flowchart TD
     A["Federal Financial System\n(Articles 115-125)"]
     
     A --> B["Revenue & Taxation\n(Article 115)"]
@@ -424,7 +424,7 @@ language: 'np',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-timeline
+flowchart TD
        
     section बुच कमिसन युग
         2009 : कानून आयोग गठनको सिफारिस : बुच कमिसनले नेपालमा पहिलो पटक कानून आयोग गठनको औपचारिक सिफारिस गर्यो
