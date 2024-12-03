@@ -1,6 +1,486 @@
 // data.js
 const flowchartData = [
   {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+}, 
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+}, 
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+}, 
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+}, 
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+   {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+}, 
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '000',
+title: '',
+language: '',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+   
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '0012',
+title: 'Federal Financial Procedure',
+language: 'en',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+    A["Federal Financial System\n(Articles 115-125)"]
+    
+    A --> B["Revenue & Taxation\n(Article 115)"]
+    B --> B1["No Tax Without Law\n(115.1)"]
+    B --> B2["No Loans Without Federal Law\n(115.2)"]
+    
+    B2 --> C["Federal Consolidated Fund\n(Article 116)"]
+    C --> C1["All Government Revenues"]
+    C --> C2["All Loans Received"]
+    C --> C3["All Other Government Receipts"]
+    
+    C3 --> D["Expenditure Methods\n(Article 117)"]
+    D --> D1["Charged Expenditure\n(Does not require parliamentary approval)"]
+    D --> D2["Appropriation Act\n(Requires parliamentary approval)"]
+    D --> D3["Vote on Account\n(For ongoing budget discussion period)"]
+    D --> D4["Exceptional Expenditure\n(For emergency situations)"]
+    
+    D4 --> E["Charged Expenditure Categories\n(Article 118)"]
+    E --> E1["Constitutional Officials\n- President & Vice President\n- Chief Justice & Judges\n- Speaker & Deputy Speaker\n- Constitutional Bodies"]
+    E --> E2["Government Obligations\n- Debt Servicing\n- Court Decisions\n- Administrative Expenses"]
+    
+    E2 --> F["Budget Process\n(Article 119)"]
+    F --> F1["Annual Revenue Estimates"]
+    F --> F2["Annual Expenditure Estimates"]
+    F --> F3["Presentation by Finance Minister\nby Jestha 15"]
+    
+    F3 --> G["Supplementary Provisions"]
+    G --> G1["Supplementary Budget\n(Article 121)\n- For insufficient allocations\n- For new services\n- For excess expenditure"]
+    G --> G2["Vote on Account\n(Article 122)\n- Maximum 1/3 of annual estimates"]
+    G --> G3["Contingency Fund\n(Article 124)\n- For emergency expenses"]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style B fill:#ffd700,stroke:#333,stroke-width:2px
+    style C fill:#98fb98,stroke:#333,stroke-width:2px
+    style D fill:#87ceeb,stroke:#333,stroke-width:2px
+    style E fill:#dda0dd,stroke:#333,stroke-width:2px
+    style F fill:#90ee90,stroke:#333,stroke-width:2px
+    style G fill:#ffa07a,stroke:#333,stroke-width:2px
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '0011',
+title: 'नेपाल कानून आयोगको विस्तृत विकासक्रम(२००९-२०८१)',
+language: 'np',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+       
+    section बुच कमिसन युग
+        2009 : कानून आयोग गठनको सिफारिस : बुच कमिसनले नेपालमा पहिलो पटक कानून आयोग गठनको औपचारिक सिफारिस गर्यो
+        
+    section ल कमिसन युग
+        2010 : पहिलो ल कमिसन स्थापना : बडाकाजी माणिकलाल राजभण्डारीको अध्यक्षतामा गठन
+            : तीन विशेष सेक्सन स्थापना (देवानी, फौजदारी र मालपोत विषयक)
+            : मासिक तीन पटक बैठक अनिवार्य
+        2012 : नेपाल दण्ड विधान : पहिलो महत्वपूर्ण मस्यौदा तयार
+        2017 : दोस्रो ल कमिसन : सर्वोच्च अदालतका न्यायाधीश नयनबहादुर खत्रीको अध्यक्षतामा गठन
+            : नयाँ मुलुकी ऐनको मस्यौदा तयारी र कानूनको आधुनिकीकरणको थालनी
+            
+    section कानून आयोग युग
+        2020 : तेस्रो कानून आयोग : विनोदप्रसाद धितालको अध्यक्षतामा गठन
+            : कानून अध्ययन र अनुसन्धानको थप जिम्मेवारी प्राप्त
+        2027 : कार्यकाल समाप्ति : तेस्रो कानून आयोगको कार्यकाल समाप्त
+        2029 : चौथो कानून आयोग : नयनबहादुर खत्रीको पुनः अध्यक्षतामा गठन
+            : प्रमाण ऐन र अपराध संहिताको महत्वपूर्ण मस्यौदा तयार
+        2033 : विघटन : चौथो कानून आयोगको विघटन
+        
+    section सुधार आयोग युग
+        2036 : कानून सुधार आयोग : विश्वनाथ उपाध्यायको अध्यक्षतामा गठन
+            : अपराध संहिता र कार्यविधि संहिताको अध्यावधिक
+        2041 : स्थायी आयोग : पहिलो पटक स्थायी संस्थाको रूपमा स्थापना
+            : विश्वनाथ उपाध्यायकै नेतृत्वमा निरन्तरता
+        2057 : कार्यकाल समाप्ति : स्थायी कानून सुधार आयोगको कार्यकाल समाप्त
+        2059 : पुनर्गठन : निरञ्जन थापाको अध्यक्षतामा पुनर्गठन
+            : न्याय परिषद सचिव र नायब महान्यायाधिवक्ता पदेन सदस्यको रूपमा थप
+            
+    section वर्तमान आयोग
+        2063 : नेपाल कानून आयोग : नेपाल कानून आयोग ऐन, २०६३ द्वारा स्थापना
+            : वैधानिक र स्थायी संस्थाको रूपमा विकास
+            : विस्तृत कार्यक्षेत्र र अधिकार प्राप्त
+            : अध्यक्ष, उपाध्यक्ष र सदस्यहरूको स्पष्ट व्यवस्था
+        2081 : वर्तमान अवस्था : कानून निर्माण, संहिताकरण र अनुसन्धानमा सक्रिय
+            : प्रभावकारी संरचना र विस्तारित कार्यक्षेत्र
+            : देशको प्रमुख कानूनी थिंक ट्यांकको रूपमा स्थापित
+    
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+}, 
+  {
+id: '0010',
+title: 'कानून आयोग पूर्वको नेपालको कानूनी इतिहास',
+language: 'np',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+ 
+    section किराँत काल
+        प्राचीन : किराँत मुन्धुम : किराँत समुदायको पवित्र ग्रन्थद्वारा शासन सञ्चालन
+            : धार्मिक र सामाजिक नियमहरूको प्रयोग
+    
+    section लिच्छवि काल in AD
+        मध्य युग : धर्मशास्त्र आधारित : विभिन्न धर्मशास्त्र अनुसार न्याय प्रशासन
+            : राजाज्ञाको प्रयोग : धर्मशास्त्रले नसमेटेका विषयमा राजाज्ञा जारी
+        विशेष : राजा अंशुवर्माको योगदान : विद्वानहरूसँग छलफल गरी लोक व्यवहार अनुसार कानून निर्माण
+    
+    section मल्ल काल in AD
+        1380 : जयस्थिति मल्लको योगदान : विद्वानहरूको समिति गठन
+            : चार प्रमुख कानून : गृह निर्णय, क्षेत्र निर्णय, जात निर्णय र मानव न्यायशास्त्र
+        
+    section शाह काल in AD
+        1606 : राम शाहको योगदान : गोर्खा राज्यमा विभिन्न थितिको व्यवस्था
+            : "न्याय नपाए गोर्खा जानु" भन्ने लोकोक्तिको विकास
+    
+    section राणा काल in AD
+        1854 : जंग बहादुर राणाको योगदान : कौशल अड्डा गठन (२१० जना पदाधिकारी)
+            : मुलुकी ऐन जारी : नेपालको पहिलो संहिताबद्ध कानून
+        1936 : कम्पनी ऐन जारी
+        1937 : पेटेण्ट, डिजाइन र ट्रेडमार्क ऐन जारी
+        1938 : नेपाल बैंक सम्बन्धी ऐन जारी
+        
+    section प्रजातन्त्र युग  in BS
+        2007 : प्रजातन्त्रको स्थापना : कानून सुधारको क्षेत्रमा विशेष प्रयास सुरु
+        2009 : बुच कमिसन : कानून आयोग गठनको पहिलो औपचारिक सिफारिस
+            : आधुनिक कानून प्रणालीको जग बसाल्ने प्रयास
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
+id: '0009',
+title: 'पाण्डवको वंश',
+language: 'np',
+collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
+organization: 'सर्वोच्च अदालत',
+diagram: `
+flowchart TD
+    %% Main styles
+    classDef male fill:#2471A3,stroke:#333,stroke-width:2px,color:white
+    classDef female fill:#DB7093,stroke:#333,stroke-width:2px,color:white
+    classDef marriage fill:none,stroke:#333,stroke-width:2px,stroke-dasharray: 5 5
+    classDef divine fill:#229954,stroke:#333,stroke-width:2px,color:white
+    classDef death fill:#8B0000,stroke:#333,stroke-width:2px,color:white
+    classDef survived fill:#006400,stroke:#333,stroke-width:2px,color:white
+
+    %% Divine fathers and parents level
+    subgraph DivineAndParents[" "]
+        Yam[/"यम"\] & Vayu[/"वायु"\] & Indra[/"इन्द्र"\] & Ashwini[/"अश्विनीकुमार"\]
+        Pandu(("पाण्डु")) --- Marriage1{{"♥"}} --- Kunti(("कुन्ती"))
+        Pandu --- Marriage2{{"♥"}} --- Madri(("माद्री"))
+    end
+
+    %% Pandavas level
+    subgraph Pandavas[" "]
+        Yudhishthir(("युधिष्ठिर")) & Bhim(("भीम")) & Arjun(("अर्जुन")) & Nakul(("नकुल")) & Sahadev(("सहदेव"))
+    end
+
+    %% Wives level
+    subgraph Wives[" "]
+        Draupadi(("द्रौपदी"))
+        Hidimba(("हिडिम्बा"))
+        Balnika(("बलनिका"))
+        Chitrangada(("चित्रांगदा"))
+        Ulupi(("उलूपी"))
+        Subhadra(("सुभद्रा"))
+    end
+
+    %% Children level
+    subgraph Children[" "]
+        Prativindhya[/"प्रतिविन्ध्य
+        ✝ अश्वत्थामाद्वारा"\]
+        
+        SrutkirtiFD[/"श्रुतकीर्ति
+        ✝ अश्वत्थामाद्वारा"\]
+        
+        Ghatotkach[/"घटोत्कच
+        ✝ कर्णको वासवी शक्तिद्वारा"\]
+        
+        Sutsom[/"सुतसोम
+        ✝ अश्वत्थामाद्वारा"\]
+        
+        SrutkirtiAD[/"श्रुतकीर्ति
+        ✝ अश्वत्थामाद्वारा"\]
+        
+        Babhruvan[["बभ्रुवाहन
+        ★ मणिपुरका राजा"]]
+        
+        Iravan[/"इरावान
+        ✝ अलायुधद्वारा"\]
+        
+        Abhimanyu[/"अभिमन्यु
+        ✝ चक्रव्यूहमा"\]
+        
+        Shatanik[/"शतानीक
+        ✝ अश्वत्थामाद्वारा"\]
+        
+        Shrutkarm[/"श्रुतकर्मा
+        ✝ अश्वत्थामाद्वारा"\]
+    end
+
+    %% Relationships
+    Yam -.-> Yudhishthir
+    Vayu -.-> Bhim
+    Indra -.-> Arjun
+    Ashwini -.-> Nakul & Sahadev
+
+    Kunti --> Yudhishthir & Bhim & Arjun
+    Madri --> Nakul & Sahadev
+
+    %% Marriages and children
+    Yudhishthir --- Draupadi --> Prativindhya
+    Bhim --- Draupadi --> SrutkirtiFD
+    Bhim --- Hidimba --> Ghatotkach
+    Bhim --- Balnika --> Sutsom
+    
+    Arjun --- Draupadi --> SrutkirtiAD
+    Arjun --- Chitrangada --> Babhruvan
+    Arjun --- Ulupi --> Iravan
+    Arjun --- Subhadra --> Abhimanyu
+    
+    Nakul --- Draupadi --> Shatanik
+    Sahadev --- Draupadi --> Shrutkarm
+
+    %% Apply styles
+    class Pandu,Yudhishthir,Bhim,Arjun,Nakul,Sahadev male
+    class Kunti,Madri,Draupadi,Hidimba,Balnika,Chitrangada,Ulupi,Subhadra female
+    class Marriage1,Marriage2 marriage
+    class Yam,Vayu,Indra,Ashwini divine
+    class Prativindhya,SrutkirtiFD,Ghatotkach,Sutsom,SrutkirtiAD,Iravan,Abhimanyu,Shatanik,Shrutkarm death
+    class Babhruvan survived
+  
+style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
+},
+  {
 id: '0008 ',
 title: ' Sytemic Model',
 language: 'np',
