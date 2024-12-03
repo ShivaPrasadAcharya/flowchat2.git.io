@@ -217,25 +217,93 @@ flowchart TD
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 }, 
   {
-id: '000',
-title: '',
+id: '0014',
+title: 'Power Sharing in Federal Nepal',
 language: '',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
 flowchart TD
-   
+A["Federal Democratic Republic of Nepal\n(Article 56)"]
+            
+            A --> B1["Federal Level\n(Schedule 5)"]
+            A --> B2["Provincial Level\n(Schedule 6)"]
+            A --> B3["Local Level\n(Schedule 8)"]
+            
+            B1 --> C1["Federal Powers\n- Exclusive rights\n- Residual powers\n(Article 58)"]
+            
+            B2 --> C2["Provincial Structure\n- As per Schedule 4\n- District based"]
+            
+            B3 --> C3["Local Structure\n- Rural Municipality\n- Municipality\n- District Assembly"]
+            
+            D["Power Distribution\n(Article 57)"]
+            
+            D --> E1["Concurrent Powers"]
+            E1 --> F1["Federal-Provincial\n(Schedule 7)"]
+            E1 --> F2["Federal-Provincial-Local\n(Schedule 9)"]
+            
+            G["Financial Powers\n(Article 59)"]
+            
+            G --> H1["Budget Rights\n- All levels prepare own budget\n- Provincial & local timing as per federal law"]
+            
+            G --> H2["Resource Management\n- Equitable distribution\n- Priority to local investment\n- Foreign aid/loans by federal govt"]
+            
+            I["Revenue Distribution\n(Article 60)"]
+            
+            I --> J1["Revenue Collection\n- All levels within jurisdiction\n- Shared subjects as per federal law"]
+            
+            I --> J2["Financial Transfers\n- Equalization grants\n- Conditional grants\n- Complementary grants\n- Special grants"]
+            
+            style A fill:#f9f,stroke:#333,stroke-width:2px
+            style D fill:#ffd700,stroke:#333,stroke-width:2px
+            style G fill:#98fb98,stroke:#333,stroke-width:2px
+            style I fill:#87ceeb,stroke:#333,stroke-width:2px   
   
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 },
   {
-id: '000',
-title: '',
-language: '',
+id: '0013',
+title: 'Federal Legislature',
+language: 'en',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-flowchart TD
+ flowchart TD
+    A["Federal Parliament\n(Article 83)"]
+    
+    A --> B1["House of Representatives\n275 Members\n(Article 84)"]
+    A --> B2["National Assembly\n59 Members\n(Article 86)"]
+    
+    B1 --> C1["Election System\n- 165 FPTP\n- 110 Proportional\n(84.1)"]
+    B1 --> C2["Term: 5 Years\n(85.1)"]
+    
+    B2 --> D1["Permanent House\n(86.1)"]
+    B2 --> D2["6-Year Term\n1/3 Members Retire\nEvery 2 Years\n(86.3)"]
+    
+    E["Leadership"]
+    E --> F1["HoR Speaker &\nDeputy Speaker\n(91)"]
+    E --> F2["NA Chair &\nDeputy Chair\n(92)"]
+    
+    G["Parliamentary Powers"]
+    
+    G --> H1["Impeachment\n(101)"]
+    G --> H2["Vote of Confidence\n(100)"]
+    G --> H3["Parliamentary\nPrivileges\n(103)"]
+    
+    I["Session & Quorum"]
+    
+    I --> J1["Session Called by\nPresident\n(93)"]
+    I --> J2["Quorum: 1/4 of\nTotal Members\n(94)"]
+    
+    K["Committees"]
+    
+    K --> L1["Parliamentary\nCommittees\n(97.1)"]
+    K --> L2["Joint Committees\n(97.2)"]
+    
+    style A fill:#f9f,stroke:#333,stroke-width:2px
+    style G fill:#ffd700,stroke:#333,stroke-width:2px
+    style I fill:#98fb98,stroke:#333,stroke-width:2px
+    style K fill:#87ceeb,stroke:#333,stroke-width:2px
    
   
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
@@ -247,7 +315,7 @@ language: 'en',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-flowchart TD
+timeline
     A["Federal Financial System\n(Articles 115-125)"]
     
     A --> B["Revenue & Taxation\n(Article 115)"]
@@ -296,7 +364,7 @@ language: 'np',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-flowchart TD
+timeline
        
     section बुच कमिसन युग
         2009 : कानून आयोग गठनको सिफारिस : बुच कमिसनले नेपालमा पहिलो पटक कानून आयोग गठनको औपचारिक सिफारिस गर्यो
@@ -344,7 +412,7 @@ language: 'np',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-flowchart TD
+timeline
  
     section किराँत काल
         प्राचीन : किराँत मुन्धुम : किराँत समुदायको पवित्र ग्रन्थद्वारा शासन सञ्चालन
