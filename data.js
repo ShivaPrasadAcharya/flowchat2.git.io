@@ -181,15 +181,58 @@ flowchart TD
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 },
   {
-id: '000',
-title: '',
-language: '',
+id: '0017',
+title: 'IIIrd paper-JS',
+language: 'en',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
-flowchart TD
-   
-  
+graph TD
+    A[International Trade & Transit Facilitation] --> B[Regulatory Framework]
+    A --> C[Infrastructure]
+    A --> D[Stakeholders]
+    A --> E[Documentation & Procedures]
+
+    B --> B1[International Conventions]
+    B --> B2[Regional Agreements]
+    B --> B3[National Laws]
+    B --> B4[Trade Policies]
+
+    C --> C1[Physical Infrastructure]
+    C --> C2[Digital Infrastructure]
+    
+    C1 --> C1A[Ports]
+    C1 --> C1B[Roads & Railways]
+    C1 --> C1C[Warehouses]
+    C1 --> C1D[Border Posts]
+    
+    C2 --> C2A[Single Window Systems]
+    C2 --> C2B[Electronic Documentation]
+    C2 --> C2C[Track & Trace Systems]
+
+    D --> D1[Government Agencies]
+    D --> D2[Private Sector]
+    D --> D3[International Organizations]
+    
+    D1 --> D1A[Customs]
+    D1 --> D1B[Border Agencies]
+    D1 --> D1C[Port Authorities]
+    
+    D2 --> D2A[Traders]
+    D2 --> D2B[Freight Forwarders]
+    D2 --> D2C[Logistics Providers]
+
+    E --> E1[Trade Documents]
+    E --> E2[Customs Procedures]
+    E --> E3[Payment Systems]
+    
+    E1 --> E1A[Bills of Lading]
+    E1 --> E1B[Certificates of Origin]
+    E1 --> E1C[Commercial Invoices]
+    
+    E2 --> E2A[Risk Management]
+    E2 --> E2B[Clearance Procedures]
+    E2 --> E2C[Transit Procedures]
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 },
    {
