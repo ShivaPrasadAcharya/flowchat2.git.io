@@ -176,8 +176,7 @@ collector: 'सङ्कलनकर्ताः शिवप्रसादा�
 organization: 'सर्वोच्च अदालत',
 diagram: `
 flowchart TD
-   flowchart TD
-    A[Person A in Country X] --> B{Choose Path}
+     A[Person A in Country X] --> B{Choose Path}
     
     %% Refugee Path
     B -->|Refugee Path| C[Register with UNHCR in X]
