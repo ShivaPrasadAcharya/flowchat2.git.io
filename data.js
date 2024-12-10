@@ -169,14 +169,51 @@ flowchart TD
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 }, 
   {
-id: '000',
-title: '',
-language: '',
+id: '0018',
+title: 'Asylee and Refugee',
+language: 'en',
 collector: 'सङ्कलनकर्ताः शिवप्रसादाचार्यः (२०८१)',
 organization: 'सर्वोच्च अदालत',
 diagram: `
 flowchart TD
-   
+   flowchart TD
+    A[Person A in Country X] --> B{Choose Path}
+    
+    %% Refugee Path
+    B -->|Refugee Path| C[Register with UNHCR in X]
+    C --> D[Complete UNHCR Registration Form]
+    D --> E[Initial UNHCR Interview]
+    E --> F[UNHCR RSD Interview]
+    F --> G[Medical Screening]
+    G --> H[Security Checks]
+    H --> I[Country Y Selection]
+    I --> J[Submit to Y's Embassy]
+    J --> K[Embassy Interview]
+    K --> L[Final Security Check]
+    L --> M[Travel Arrangements]
+    M --> N[Arrive in Y]
+    N --> O[Refugee Status Granted]
+    
+    %% Asylum Path
+    B -->|Asylum Path| P[Enter Country Y]
+    P --> Q[Express Fear/Seek Asylum]
+    Q --> R{Application Method}
+    R -->|Affirmative| S[File Form I-589]
+    R -->|Defensive| T[Express at Border]
+    S --> U[Biometrics]
+    T --> U
+    U --> V[Initial Interview]
+    V --> W[Background Check]
+    W --> X[Asylum Interview]
+    X --> Y[Decision]
+    Y -->|Approved| Z[Asylee Status]
+    Y -->|Denied| AA[Appeal Process]
+    AA --> BB[Immigration Court]
+    BB --> CC[Board of Immigration Appeals]
+    CC --> DD[Federal Court]
+
+    style O fill:#90EE90
+    style Z fill:#90EE90
   
 style A fill:#2b6cb0,stroke:#1a365d,stroke-width:2px,color:black`
 },
